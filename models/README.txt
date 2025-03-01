@@ -1,0 +1,1 @@
+Copy the model (best) from "Football_training\training\runs\detect\train4\weights\best.pt".

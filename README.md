@@ -19,7 +19,7 @@ Ensure you have Python installed before proceeding.
 
 ### Clone Repository
 ```sh
-git clone https://github.com/yourusername/football-tracking.git
+git clone https://github.com/Rhuthvik-D/Football-Tracking.git
 cd football-tracking
 ```
 
